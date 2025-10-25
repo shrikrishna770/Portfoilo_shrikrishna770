@@ -17,7 +17,7 @@ function Navbar(){
 
 
   return<>
-    <div className="bg-black text-white relative w-full flex items-center justify-center pr-2 py-0.5 text-[1.2rem] ">
+    <div className="bg-black text-white w-full flex items-center sticky top-0 justify-center pr-2 py-0.5 text-[1.2rem] ">
       <div className="relative w-[800px] " >
         <a className="flex items-center w-[270px] gap-1 text-3xl" href=""><img src={logo} className="relative w-20" alt="" />Shri Krishna</a>
       </div>
@@ -29,7 +29,7 @@ function Navbar(){
       </div>
       <div className="flex w-20 justify-center md:hidden ">
         <button className="text-4xl" onClick={changeToggle}><IoMenu /></button>
-        <ul className={`${toggle} flex flex-col absolute items-center top-23.5 right-0 w-full bg-red-500 p-5`} >
+        <ul className={`${toggle} flex flex-col absolute items-center top-21 right-0 w-full bg-red-500 p-5`} >
           <li><a href="#">Home</a></li>
           <li><a href="#">Projects</a></li>
           <li> <a href="#">Contact</a></li>

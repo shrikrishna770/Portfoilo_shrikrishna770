@@ -37,7 +37,7 @@ function Footer() {
             <label htmlFor="">Message</label>
               <textarea name="" rows={5} id="" className="w-full mt-2 mb-4 border rounded-sm text-lg p-1"></textarea>
 
-            <button type="submit" className="border w-[90px] text-lg rounded-2xl p-2 ">Submit</button>
+            <button type="submit" className="border w-[100px] text-lg rounded-3xl py-1 px-2 ">Submit</button>
           </form>
         </div>
       </div>
