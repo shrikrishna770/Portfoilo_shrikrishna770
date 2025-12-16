@@ -6,11 +6,11 @@ console.log(data);
 function Project() {
   return (<>
     {data.map((item)=>(
-      <div key={item.id} className="flex max-w-7xl flex-col lg:flex-row lg:content-center justify-between items-center gap-15">
-        <div className="flex justify-center p-10 text-center items-center bg-gray-500 h-[450px] w-[600px]">
+      <div key={item.id} className="flex flex-col lg:flex-row lg:content-center justify-between items-center gap-15">
+        <div className="flex justify-center p-10 text-center items-center bg-gray-500 lg:h-[450px] lg:w-[600px] h-[300px] min-w-[350px]">
           <img src={item.img} className="w-full h-full" alt={item.title} />
         </div>  
-        <div className="flex flex-col justify-center gap-8 min-w-[700px]">
+        <div className="flex flex-col justify-center gap-8 max-w-[900px] lg:max-w-[700px]">
           <div className="flex flex-col gap-5">
             <h2 className="text-2xl font-bold">{item.title}</h2>
             <p className="text-sm">{item.description}</p>
