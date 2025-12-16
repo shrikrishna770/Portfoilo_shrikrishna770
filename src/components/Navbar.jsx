@@ -18,11 +18,11 @@ function Navbar(){
 
   return<>
     <div className="bg-black text-white w-full flex items-center sticky top-0 justify-center pr-2 py-0.5 text-[1.2rem] ">
-      <div className="relative w-[800px] " >
+      <div className="relative w-[800px]" >
         <a className="flex items-center w-[270px] gap-1 text-3xl" href=""><img src={logo} className="relative w-20" alt="" />Shri Krishna</a>
       </div>
 
-      <div className="hidden relative w-[500px] justify-end gap-6 px-7 md:flex">
+      <div className="hidden relative w-[520px] justify-end gap-6 px-2 md:flex">
         <a href="#">Home</a>
         <a href="#">Projects</a>
         <a href="#">Contact</a>
