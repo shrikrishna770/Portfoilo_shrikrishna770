@@ -3,12 +3,12 @@ function About() {
   return (
     <>
       <div className="flex flex-col text-justify  lg:flex-row bg-black justify-center text-white py-20">
-        <div className="flex lg:w-[580px] px-4 ">
+        <div className="flex lg:w-[650px] px-4 ">
           <h1 className="text-4xl lg:text-5xl font-bold py-10">
             About Me
           </h1>
         </div>
-        <div className="lg:w-[730px] px-4 w-full">
+        <div className="lg:w-[750px] px-4 w-full">
           <p className="text-lg text-gray-500">
             I am a Frontend Developer with strong problem-solving skills and real-world experience in building fast, responsive, and performance-focused web applications. I work with HTML, CSS, Tailwind CSS, JavaScript (JS), and React, combining clean design with modern development practices to create intuitive and user-friendly interfaces.
           </p>

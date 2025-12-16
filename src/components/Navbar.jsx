@@ -29,7 +29,7 @@ function Navbar(){
       </div>
       <div className="flex w-20 justify-center md:hidden ">
         <button className="text-4xl" onClick={changeToggle}><IoMenu /></button>
-        <ul className={`${toggle} flex flex-col absolute items-center top-21 right-0 w-full bg-red-500 p-5`} >
+        <ul className={`${toggle} flex flex-col absolute items-center top-21 border-t right-0 w-full bg-black p-5`} >
           <li><a href="#">Home</a></li>
           <li><a href="#">Projects</a></li>
           <li> <a href="#">Contact</a></li>

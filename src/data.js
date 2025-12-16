@@ -1,7 +1,7 @@
 const data = [{
     id: 1,
     title: "Food Recipe App",
-    description: "Modified the About component to improve layout and styling for better readability and visual appeal.",
+    description: "I built a Food Recipes application that allows users to securely log in and explore a variety of recipes through a clean and user-friendly interface. The login page provides a simple and responsive authentication flow, ensuring a smooth entry into the app. Once logged in, users can browse recipes, view details, and enjoy an intuitive experience focused on usability and performance.The project emphasizes modern frontend practices, responsive design, and a clear UI layout to make recipe discovery easy and engaging.",
     year: 2025,
     role: "Frontend Developer",
     liveLink: "https://foods-recipes-find.vercel.app/",
@@ -11,7 +11,7 @@ const data = [{
   {
     id: 2,
     title: "Temple website",
-    description: "Modified the About component to improve layout and styling for better readability and visual appeal.",
+    description: "A responsive temple website designed to provide visitors with essential information in a clear and accessible way. The project features a clean user interface, structured content sections, and mobile-friendly design to ensure a smooth browsing experience across devices. It focuses on simplicity, readability, and modern frontend practices to present temple details effectively.",
     year: 2025,
     role: "Frontend Developer",
     liveLink: "https://temple-pi-one.vercel.app/",
@@ -21,7 +21,7 @@ const data = [{
   {
     id: 3,
     title: "Todo app",
-    description: "Modified the About component to improve layout and styling for better readability and visual appeal.",
+    description: "A responsive task management web application that lets users efficiently track and organize daily tasks. Users can add, view, complete, and remove tasks with a clean and intuitive interface. This project demonstrates fundamental frontend development skills, focusing on interactive UI, state management, and modern deployment practices using Vercel.",
     year: 2025,
     role: "Frontend Developer",
     liveLink: "https://todo-app-alpha-wine.vercel.app/",
@@ -30,8 +30,8 @@ const data = [{
   },
   {
     id: 4,
-    title: "calculator app",
-    description: "Modified the About component to improve layout and styling for better readability and visual appeal.",
+    title: "Calculator app",
+    description: "Developed a responsive and interactive web calculator using modern frontend technologies. The application handles core arithmetic operations, features intuitive button controls, and maintains smooth user interaction with real‑time input processing. Deployed on Vercel, the project demonstrates proficiency in JavaScript logic, UI responsiveness, and deployment workflows.",
     year: 2025,
     role: "Frontend Developer",
     liveLink: "https://calculator-blue-nine-66.vercel.app/",
@@ -41,7 +41,7 @@ const data = [{
   {
     id: 5,
     title: "Age calculator app",
-    description: "Modified the About component to improve layout and styling for better readability and visual appeal.",
+    description: "Built an interactive and user-friendly Age Calculator using modern frontend technologies. The application allows users to input their birth date and instantly computes their age, with a clean and responsive interface across devices. Deployed on Vercel, this project highlights proficiency in JavaScript programming, dynamic UI updates, and frontend deployment workflows.",
     year: 2025,
     role: "Frontend Developer",
     liveLink: "https://age-calculator-five-rouge.vercel.app/",
@@ -51,7 +51,7 @@ const data = [{
   {
     id: 6,
     title: "Analog Clock",
-    description: "Modified the About component to improve layout and styling for better readability and visual appeal.",
+    description: "A visually appealing and responsive analog clock web application that displays the current time with real-time updates. The clock features smooth moving hands for hours, minutes, and seconds, implemented using JavaScript and CSS animations. Deployed on Vercel, this project demonstrates skills in DOM manipulation, time-based logic, and frontend UI design.",
     year: 2025,
     role: "Frontend Developer",
     liveLink: "https://analog-clock-swart-five.vercel.app/",
